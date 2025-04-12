@@ -11,10 +11,11 @@ You can issue a number of commands after the wakeup.
 
 However, it has some issues with identifying some words:- "two","six","up". It always recognises the wakeup command.
 
+I developed the code on a Pico using Thonny.
 
 # software
 
-## flashing
+## flashing the ASR
 
 You can download the flashing software from this page. I haven't used it because it's in Chinese and I need to go to night school to learn it.
 
